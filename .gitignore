@@ -3,12 +3,4 @@ build/
 run/
 out/
 .idea/
-.vscode/
-.settings/
-.classpath
-.project
 *.iml
-*.log
-*.tmp
-.DS_Store
-Thumbs.db

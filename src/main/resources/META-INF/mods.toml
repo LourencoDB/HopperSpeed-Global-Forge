@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[58,)"
+license="MIT"
+
+[[mods]]
+modId="hopperspeed"
+version="1.0.0"
+displayName="HopperSpeed Global"
+authors="Projeto comunitario"
+description="Ajusta globalmente o intervalo de transferencia dos funis usando /hopperspeed 1..8."
+
+[[dependencies.hopperspeed]]
+modId="forge"
+mandatory=true
+versionRange="[58.0.0,59.0.0)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.hopperspeed]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.8,1.21.9)"
+ordering="NONE"
+side="BOTH"
